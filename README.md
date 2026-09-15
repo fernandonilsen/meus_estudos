@@ -1,2 +1,2 @@
 # meus_projetos
-Primeiro repositório
+Primeiro repositório de git e github
