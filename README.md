@@ -1,2 +1,2 @@
 # meus_estudos
-1.Projeto_android -> Site focado em Html5 e Css3
+1.Estudo_android -> Site focado no curso do Gustavo Guanabara de HTML5 e CSS3.
